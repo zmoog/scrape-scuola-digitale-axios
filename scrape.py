@@ -1,10 +1,11 @@
 from dataclasses import dataclass, asdict
 from typing import List
+import datetime as dt
 import json
 import os
 import re
 
-from playwright.sync_api import Playwright, sync_playwright, expect
+from playwright.sync_api import Playwright, sync_playwright
 from bs4 import BeautifulSoup
 
 
@@ -12,12 +13,18 @@ from bs4 import BeautifulSoup
 class Grade:
     date: str
     subject: str
-    type: str
-    grade: str
-    target: str
-    note: str
+    kind: str
+    value: str
+    comment: str
     teacher: str
-    unused: str
+
+
+class DateTimeEncoder(json.JSONEncoder):
+    """JSON encoder for object containing datetime values."""
+
+    def default(self, obj):
+        if isinstance(obj, (dt.date, dt.datetime)):
+            return obj.isoformat()
 
 
 def run(playwright: Playwright) -> [str, List[Grade]]:
@@ -46,7 +53,14 @@ def run(playwright: Playwright) -> [str, List[Grade]]:
     rows = soup.find_all("tr")
     for row in rows:
         cols = row.find_all("td")
-        grades.append(Grade(*[ele.text.strip() for ele in cols]))
+        grades.append(Grade(
+            date=dt.datetime.strptime(cols[0].text.strip(), "%d/%m/%Y"),
+            subject=cols[1].text.strip(),
+            kind=cols[2].text.strip(),
+            value=cols[3].text.strip(),
+            comment=cols[5].text.strip(),
+            teacher=cols[6].text.strip(),
+        ))
 
     # ---------------------
     context.close()
@@ -58,4 +72,4 @@ def run(playwright: Playwright) -> [str, List[Grade]]:
 with sync_playwright() as playwright:
     html, grades = run(playwright)
     open("grades.html", "w").write(html)
-    open("grades.json", "w").write(json.dumps([asdict(grade) for grade in grades], indent=4))
+    open("grades.json", "w").write(json.dumps([asdict(grade) for grade in grades], indent=4, cls=DateTimeEncoder))
