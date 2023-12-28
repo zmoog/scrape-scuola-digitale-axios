@@ -4,8 +4,8 @@ on:
   push:
   workflow_dispatch:
   schedule:
-  # cron expression that runs every 2 hours
-  # https://crontab.guru/#0_*/2_*_*_*
+  # Run the job “At minute 0 past every 2nd hour from 9 through 19.”
+  # https://crontab.guru/#0_9-19/2_*_*_*
   - cron: '0 */2 * * *'
 
 jobs:
