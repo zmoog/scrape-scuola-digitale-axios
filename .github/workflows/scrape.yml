@@ -29,9 +29,9 @@ jobs:
     - name: Fetch latest data
       run: python scrape.py
       env:
-        AXIOS_USERNAME: ${{ secrets.AXIOS_USERNAME }}
-        AXIOS_PASSWORD: ${{ secrets.AXIOS_PASSWORD }}
-        AXIOS_CF: ${{ secrets.AXIOS_CF }}
+        AXIOS_USERNAME: "${{ secrets.AXIOS_USERNAME }}"
+        AXIOS_PASSWORD: "${{ secrets.AXIOS_PASSWORD }}"
+        AXIOS_CF: "${{ secrets.AXIOS_CF }}"
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
