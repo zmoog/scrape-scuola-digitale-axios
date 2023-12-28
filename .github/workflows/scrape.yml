@@ -1,0 +1,42 @@
+name: Scrape latest data
+
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+  # cron expression that runs every 2 hours
+  # https://crontab.guru/#0_*/2_*_*_*
+  - cron: '0 */2 * * *'
+
+jobs:
+  scheduled:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check out this repo
+      uses: actions/checkout@v3
+      with:
+        fetch-depth: 0
+    - uses: actions/setup-python@v2
+      with:
+        python-version: '3.10'
+        cache: 'pip'
+    - name: Install dependencies
+      run: |
+        pip install -r requirements.txt
+    - name: Install Playwright dependencies
+      run: |
+        playwright install chromium
+    - name: Fetch latest data
+      run: python scrape.py
+      env:
+        AXIOS_USERNAME: ${{ secrets.AXIOS_USERNAME }}
+        AXIOS_PASSWORD: ${{ secrets.AXIOS_PASSWORD }}
+        AXIOS_CF: ${{ secrets.AXIOS_CF }}
+    - name: Commit and push if it changed
+      run: |-
+        git config user.name "Automated"
+        git config user.email "actions@users.noreply.github.com"
+        git add -A
+        timestamp=$(date -u)
+        git commit -m "Latest data: ${timestamp}" || exit 0
+        git push
