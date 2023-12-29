@@ -78,5 +78,253 @@
         "value": "7.3",
         "comment": "",
         "teacher": "Novelli Cristina"
+    },
+    {
+        "date": "2023-11-20T00:00:00",
+        "subject": "INGLESE",
+        "kind": "Scritto",
+        "value": "7",
+        "comment": "Verifica units 1-2",
+        "teacher": "Barbero Daniela"
+    },
+    {
+        "date": "2023-11-20T00:00:00",
+        "subject": "Italiano",
+        "kind": "Orale",
+        "value": "9",
+        "comment": "Interrogazione di Grammatica: Il verbo",
+        "teacher": "Rapalino Lara"
+    },
+    {
+        "date": "2023-11-17T00:00:00",
+        "subject": "FRANCESE",
+        "kind": "Scritto",
+        "value": "7",
+        "comment": "Verifica Unit\u00e9 6",
+        "teacher": "Giovannini Sonia"
+    },
+    {
+        "date": "2023-11-17T00:00:00",
+        "subject": "Italiano",
+        "kind": "Scritto",
+        "value": "9-",
+        "comment": "Il testo poetico",
+        "teacher": "Rapalino Lara"
+    },
+    {
+        "date": "2023-11-16T00:00:00",
+        "subject": "Matematica",
+        "kind": "Grafico",
+        "value": "7",
+        "comment": "Verifica scritta sui quadrilateri e le loro propriet\u00e0.",
+        "teacher": "Micela Silvia"
+    },
+    {
+        "date": "2023-11-16T00:00:00",
+        "subject": "ARTE E IMMAGINE",
+        "kind": "Grafico",
+        "value": "9",
+        "comment": "Un poster per la pace",
+        "teacher": "Pagliarulo Veronica"
+    },
+    {
+        "date": "2023-11-10T00:00:00",
+        "subject": "TECNOLOGIA",
+        "kind": "Grafico",
+        "value": "9",
+        "comment": "",
+        "teacher": "Pavarin Maria Luisa"
+    },
+    {
+        "date": "2023-11-08T00:00:00",
+        "subject": "SC.MOTORIE SPORTIVE",
+        "kind": "Pratico",
+        "value": "8",
+        "comment": "Test di resistenza",
+        "teacher": "Cacciacarne Antonella"
+    },
+    {
+        "date": "2023-11-08T00:00:00",
+        "subject": "MUSICA",
+        "kind": "Pratico",
+        "value": "9.5",
+        "comment": "",
+        "teacher": "Dipietromaria Paola"
+    },
+    {
+        "date": "2023-11-08T00:00:00",
+        "subject": "MUSICA",
+        "kind": "Scritto",
+        "value": "9",
+        "comment": "",
+        "teacher": "Dipietromaria Paola"
+    },
+    {
+        "date": "2023-11-03T00:00:00",
+        "subject": "MUSICA",
+        "kind": "Altro/Unico",
+        "value": "8",
+        "comment": "",
+        "teacher": "Dipietromaria Paola"
+    },
+    {
+        "date": "2023-11-02T00:00:00",
+        "subject": "Scienze",
+        "kind": "Scritto",
+        "value": "7,75",
+        "comment": "Verifica scritta sull'organizzazione e il rivestimento del corpo umano.",
+        "teacher": "Micela Silvia"
+    },
+    {
+        "date": "2023-10-31T00:00:00",
+        "subject": "Storia",
+        "kind": "Scritto",
+        "value": "8",
+        "comment": "",
+        "teacher": "Novelli Cristina"
+    },
+    {
+        "date": "2023-10-30T00:00:00",
+        "subject": "Geografia",
+        "kind": "Scritto",
+        "value": "6.7",
+        "comment": "",
+        "teacher": "Novelli Cristina"
+    },
+    {
+        "date": "2023-10-20T00:00:00",
+        "subject": "Italiano",
+        "kind": "Scritto",
+        "value": "7",
+        "comment": "Grammatica: Il genere e la forma del verbo",
+        "teacher": "Rapalino Lara"
+    },
+    {
+        "date": "2023-10-19T00:00:00",
+        "subject": "SC.MOTORIE SPORTIVE",
+        "kind": "Scritto",
+        "value": "6",
+        "comment": "Verifica sulla terminologia.",
+        "teacher": "Cacciacarne Antonella"
+    },
+    {
+        "date": "2023-10-17T00:00:00",
+        "subject": "Matematica",
+        "kind": "Scritto",
+        "value": "7,5",
+        "comment": "Verifica di aritmetica con le frazioni e le operazioni con le frazioni.",
+        "teacher": "Micela Silvia"
+    },
+    {
+        "date": "2023-10-13T00:00:00",
+        "subject": "MUSICA",
+        "kind": "Scritto",
+        "value": "6.5",
+        "comment": "",
+        "teacher": "Dipietromaria Paola"
+    },
+    {
+        "date": "2023-10-13T00:00:00",
+        "subject": "SC.MOTORIE SPORTIVE",
+        "kind": "Altro/Unico",
+        "value": "7,5",
+        "comment": "C.A.P.I.",
+        "teacher": "Cacciacarne Antonella"
+    },
+    {
+        "date": "2023-10-11T00:00:00",
+        "subject": "INGLESE",
+        "kind": "Scritto",
+        "value": "9,75",
+        "comment": "",
+        "teacher": "Barbero Daniela"
+    },
+    {
+        "date": "2023-10-10T00:00:00",
+        "subject": "Storia",
+        "kind": "Orale",
+        "value": "8.5",
+        "comment": "",
+        "teacher": "Novelli Cristina"
+    },
+    {
+        "date": "2023-10-06T00:00:00",
+        "subject": "FRANCESE",
+        "kind": "Scritto",
+        "value": "7",
+        "comment": "Produzione scritta: presentazione personale",
+        "teacher": "Giovannini Sonia"
+    },
+    {
+        "date": "2023-10-06T00:00:00",
+        "subject": "Italiano",
+        "kind": "Scritto",
+        "value": "8",
+        "comment": "Prova di comprensione del testo sul modello INVALSI",
+        "teacher": "Rapalino Lara"
+    },
+    {
+        "date": "2023-10-03T00:00:00",
+        "subject": "TECNOLOGIA",
+        "kind": "Grafico",
+        "value": "9.5",
+        "comment": "Verifica disegno geometrico: Tavola N 3 ripasso costruzione figure piane",
+        "teacher": "Pavarin Maria Luisa"
+    },
+    {
+        "date": "2023-10-03T00:00:00",
+        "subject": "Geografia",
+        "kind": "Scritto",
+        "value": "6",
+        "comment": "",
+        "teacher": "Novelli Cristina"
+    },
+    {
+        "date": "2023-10-02T00:00:00",
+        "subject": "FRANCESE",
+        "kind": "Scritto",
+        "value": "6",
+        "comment": "Test d'ingresso",
+        "teacher": "Giovannini Sonia"
+    },
+    {
+        "date": "2023-10-02T00:00:00",
+        "subject": "Storia",
+        "kind": "Orale",
+        "value": "8",
+        "comment": "",
+        "teacher": "Novelli Cristina"
+    },
+    {
+        "date": "2023-09-29T00:00:00",
+        "subject": "Italiano",
+        "kind": "Scritto",
+        "value": "8-",
+        "comment": "Verifica: Eneide",
+        "teacher": "Rapalino Lara"
+    },
+    {
+        "date": "2023-09-27T00:00:00",
+        "subject": "Scienze",
+        "kind": "Scritto",
+        "value": "7,75",
+        "comment": "Verifica scritta sui vertebrati",
+        "teacher": "Micela Silvia"
+    },
+    {
+        "date": "2023-09-27T00:00:00",
+        "subject": "ARTE E IMMAGINE",
+        "kind": "Grafico",
+        "value": "8/9",
+        "comment": "Tav.1 Studio animali",
+        "teacher": "Pagliarulo Veronica"
+    },
+    {
+        "date": "2023-09-19T00:00:00",
+        "subject": "Storia",
+        "kind": "Scritto",
+        "value": "7.5",
+        "comment": "",
+        "teacher": "Novelli Cristina"
     }
 ]
