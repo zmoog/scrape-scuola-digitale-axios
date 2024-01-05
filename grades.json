@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-12-21T00:00:00",
+        "subject": "Scienze",
+        "kind": "Scritto",
+        "value": "8,25",
+        "comment": "Verifica scritta sul sostegno, il movimento e le leve.",
+        "teacher": "Micela Silvia"
+    },
+    {
         "date": "2023-12-20T00:00:00",
         "subject": "MUSICA",
         "kind": "Pratico",
