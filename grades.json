@@ -1,6 +1,14 @@
 [
     {
         "date": "2023-12-21T00:00:00",
+        "subject": "SC.MOTORIE SPORTIVE",
+        "kind": "Pratico",
+        "value": "9,5",
+        "comment": "Coordinazione lancio e presa della palla",
+        "teacher": "Cacciacarne Antonella"
+    },
+    {
+        "date": "2023-12-21T00:00:00",
         "subject": "Scienze",
         "kind": "Scritto",
         "value": "8,25",
