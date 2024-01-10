@@ -89,6 +89,14 @@
     },
     {
         "date": "2023-11-29T00:00:00",
+        "subject": "EDUCAZIONE CIVICA",
+        "kind": "Scritto",
+        "value": "6",
+        "comment": "Verifica  sull'UE e le sue istituzioni",
+        "teacher": "Micela Silvia"
+    },
+    {
+        "date": "2023-11-29T00:00:00",
         "subject": "Geografia",
         "kind": "Scritto",
         "value": "7.3",
