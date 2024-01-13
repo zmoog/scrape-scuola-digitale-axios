@@ -58,5 +58,7 @@ def run(playwright: Playwright) -> [str, List[Grade]]:
 
 with sync_playwright() as playwright:
     html, grades = run(playwright)
-    open("grades.html", "w").write(html)
-    open("grades.json", "w").write(json.dumps([asdict(grade) for grade in grades], indent=4, cls=DateTimeEncoder))
+    if len(grades) > 0:
+        open("grades.html", "w").write(html)
+        open("grades.json", "w").write(json.dumps([asdict(grade) for grade in grades], indent=4, cls=DateTimeEncoder))
+
