@@ -6,7 +6,8 @@ import os
 import re
 
 from playwright.sync_api import Playwright, sync_playwright
-from bs4 import BeautifulSoup
+
+from axios import GradeParser
 
 
 @dataclass
@@ -46,21 +47,7 @@ def run(playwright: Playwright) -> [str, List[Grade]]:
     page.wait_for_load_state("networkidle")
 
     html = page.inner_html("table#table-voti tbody")
-    soup = BeautifulSoup(html, "html.parser")
-
-    grades = []
-
-    rows = soup.find_all("tr")
-    for row in rows:
-        cols = row.find_all("td")
-        grades.append(Grade(
-            date=dt.datetime.strptime(cols[0].text.strip(), "%d/%m/%Y"),
-            subject=cols[1].text.strip(),
-            kind=cols[2].text.strip(),
-            value=cols[3].text.strip(),
-            comment=cols[5].text.strip(),
-            teacher=cols[6].text.strip(),
-        ))
+    grades = GradeParser().parse(html)
 
     # ---------------------
     context.close()
