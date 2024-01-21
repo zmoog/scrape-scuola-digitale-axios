@@ -1,5 +1,13 @@
 [
     {
+        "date": "2024-01-19T00:00:00",
+        "subject": "TECNOLOGIA",
+        "kind": "Scritto",
+        "value": 7.75,
+        "comment": "",
+        "teacher": "Pavarin Maria Luisa"
+    },
+    {
         "date": "2024-01-16T00:00:00",
         "subject": "Storia",
         "kind": "Scritto",
