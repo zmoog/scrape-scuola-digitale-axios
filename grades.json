@@ -1,5 +1,13 @@
 [
     {
+        "date": "2024-01-24T00:00:00",
+        "subject": "Italiano",
+        "kind": "Orale",
+        "value": 8.0,
+        "comment": "Presentazione libro letto",
+        "teacher": "Rapalino Lara"
+    },
+    {
         "date": "2024-01-19T00:00:00",
         "subject": "TECNOLOGIA",
         "kind": "Scritto",
