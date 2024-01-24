@@ -17,6 +17,14 @@
     },
     {
         "date": "2024-01-15T00:00:00",
+        "subject": "Religione",
+        "kind": "Orale",
+        "value": 8.5,
+        "comment": "VALUTAZIONE QUADRIMESTRALE IMPEGNO-INTERESSE-PARTECIPAZIONE",
+        "teacher": "Avanzato Paola Carla"
+    },
+    {
+        "date": "2024-01-15T00:00:00",
         "subject": "INGLESE",
         "kind": "Scritto",
         "value": 9.0,
