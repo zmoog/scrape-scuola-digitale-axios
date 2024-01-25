@@ -1,5 +1,13 @@
 [
     {
+        "date": "2024-01-25T00:00:00",
+        "subject": "SC.MOTORIE SPORTIVE",
+        "kind": "Scritto",
+        "value": 4.25,
+        "comment": "Verifica di ed. civica (alimentazione, sonno e rilassamento)",
+        "teacher": "Cacciacarne Antonella"
+    },
+    {
         "date": "2024-01-24T00:00:00",
         "subject": "Italiano",
         "kind": "Orale",
@@ -8,12 +16,28 @@
         "teacher": "Rapalino Lara"
     },
     {
+        "date": "2024-01-23T00:00:00",
+        "subject": "Matematica",
+        "kind": "Grafico",
+        "value": 5.5,
+        "comment": "Verifica di geometria sulla conoscenza delle formule dirette e inverse relative al calcolo dell'area dei poligoni.",
+        "teacher": "Micela Silvia"
+    },
+    {
         "date": "2024-01-19T00:00:00",
         "subject": "TECNOLOGIA",
         "kind": "Scritto",
         "value": 7.75,
         "comment": "",
         "teacher": "Pavarin Maria Luisa"
+    },
+    {
+        "date": "2024-01-16T00:00:00",
+        "subject": "Matematica",
+        "kind": "Scritto",
+        "value": 7.0,
+        "comment": "Verifica di aritmetica sui numeri decimali limitati, periodici semplici e periodici misti.",
+        "teacher": "Micela Silvia"
     },
     {
         "date": "2024-01-16T00:00:00",
