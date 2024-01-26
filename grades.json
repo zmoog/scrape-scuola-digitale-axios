@@ -25,6 +25,14 @@
     },
     {
         "date": "2024-01-19T00:00:00",
+        "subject": "Italiano",
+        "kind": "Scritto",
+        "value": 8.0,
+        "comment": "Alimentazione e salute (Educazione civica): Prova di comprensione del testo e verifica delle conoscenze lessicali.",
+        "teacher": "Rapalino Lara"
+    },
+    {
+        "date": "2024-01-19T00:00:00",
         "subject": "TECNOLOGIA",
         "kind": "Scritto",
         "value": 7.75,
