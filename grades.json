@@ -1,5 +1,13 @@
 [
     {
+        "date": "2024-01-26T00:00:00",
+        "subject": "EDUCAZIONE CIVICA",
+        "kind": "Scritto",
+        "value": 6.0,
+        "comment": "Educazione civica : alimentazione (scienze motorie)",
+        "teacher": "Micela Silvia"
+    },
+    {
         "date": "2024-01-25T00:00:00",
         "subject": "SC.MOTORIE SPORTIVE",
         "kind": "Scritto",
@@ -21,6 +29,14 @@
         "kind": "Grafico",
         "value": 5.5,
         "comment": "Verifica di geometria sulla conoscenza delle formule dirette e inverse relative al calcolo dell'area dei poligoni.",
+        "teacher": "Micela Silvia"
+    },
+    {
+        "date": "2024-01-19T00:00:00",
+        "subject": "EDUCAZIONE CIVICA",
+        "kind": "Scritto",
+        "value": 8.0,
+        "comment": "Comprensione del testo",
         "teacher": "Micela Silvia"
     },
     {
@@ -70,6 +86,14 @@
         "value": 9.0,
         "comment": "Verifica units 3-4",
         "teacher": "Barbero Daniela"
+    },
+    {
+        "date": "2024-01-12T00:00:00",
+        "subject": "MUSICA",
+        "kind": "Scritto",
+        "value": 6.0,
+        "comment": "",
+        "teacher": "Dipietromaria Paola"
     },
     {
         "date": "2024-01-12T00:00:00",
