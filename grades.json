@@ -1,5 +1,13 @@
 [
     {
+        "date": "2024-01-30T00:00:00",
+        "subject": "EDUCAZIONE CIVICA",
+        "kind": "Scritto",
+        "value": 7.5,
+        "comment": "Verifica di educazione civica sull'alimentazione",
+        "teacher": "Micela Silvia"
+    },
+    {
         "date": "2024-01-29T00:00:00",
         "subject": "ARTE E IMMAGINE",
         "kind": "Grafico",
