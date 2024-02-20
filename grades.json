@@ -1,5 +1,13 @@
 [
     {
+        "date": "2024-02-20T00:00:00",
+        "subject": "Storia",
+        "kind": "Scritto",
+        "value": 7.0,
+        "comment": "",
+        "teacher": "Novelli Cristina"
+    },
+    {
         "date": "2024-02-16T00:00:00",
         "subject": "Italiano",
         "kind": "Orale",
