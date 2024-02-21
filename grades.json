@@ -81,6 +81,14 @@
     },
     {
         "date": "2024-02-06T00:00:00",
+        "subject": "Matematica",
+        "kind": "Scritto",
+        "value": 7.0,
+        "comment": "Verifica di recupero di aritmetica sulle operazioni con le frazioni",
+        "teacher": "Micela Silvia"
+    },
+    {
+        "date": "2024-02-06T00:00:00",
         "subject": "Storia",
         "kind": "Orale",
         "value": 9.0,
