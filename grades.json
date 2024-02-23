@@ -1,5 +1,13 @@
 [
     {
+        "date": "2024-02-23T00:00:00",
+        "subject": "MUSICA",
+        "kind": "Pratico",
+        "value": 8.0,
+        "comment": "",
+        "teacher": "Dipietromaria Paola"
+    },
+    {
         "date": "2024-02-20T00:00:00",
         "subject": "TECNOLOGIA",
         "kind": "Scritto",
