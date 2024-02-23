@@ -41,6 +41,14 @@
     },
     {
         "date": "2024-02-09T00:00:00",
+        "subject": "FRANCESE",
+        "kind": "Scritto",
+        "value": 8.0,
+        "comment": "Dialogo in un negozio di abbigliamento",
+        "teacher": "Giovannini Sonia"
+    },
+    {
+        "date": "2024-02-09T00:00:00",
         "subject": "MUSICA",
         "kind": "Pratico",
         "value": 7.5,
