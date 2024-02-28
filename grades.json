@@ -16,14 +16,6 @@
         "teacher": "Dipietromaria Paola"
     },
     {
-        "date": "2024-02-21T00:00:00",
-        "subject": "INGLESE",
-        "kind": "Scritto",
-        "value": 7.5,
-        "comment": "Verifica sulla seconda tabella dei verbi irregolari",
-        "teacher": "Barbero Daniela"
-    },
-    {
         "date": "2024-02-20T00:00:00",
         "subject": "TECNOLOGIA",
         "kind": "Scritto",
@@ -38,6 +30,14 @@
         "value": 7.0,
         "comment": "",
         "teacher": "Novelli Cristina"
+    },
+    {
+        "date": "2024-02-19T00:00:00",
+        "subject": "INGLESE",
+        "kind": "Scritto",
+        "value": 7.5,
+        "comment": "Verifica sulla seconda tabella dei verbi irregolari",
+        "teacher": "Barbero Daniela"
     },
     {
         "date": "2024-02-16T00:00:00",
