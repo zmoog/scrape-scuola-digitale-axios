@@ -1,5 +1,13 @@
 [
     {
+        "date": "2024-03-01T00:00:00",
+        "subject": "TECNOLOGIA",
+        "kind": "Scritto",
+        "value": 7.5,
+        "comment": "",
+        "teacher": "Pavarin Maria Luisa"
+    },
+    {
         "date": "2024-02-27T00:00:00",
         "subject": "Geografia",
         "kind": "Scritto",
