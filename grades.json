@@ -24,6 +24,22 @@
         "teacher": "Dipietromaria Paola"
     },
     {
+        "date": "2024-02-22T00:00:00",
+        "subject": "Matematica",
+        "kind": "Grafico",
+        "value": 8.0,
+        "comment": "Verifica di geometria sul calcolo dell'area di: triangolo, rombo e trapezio.",
+        "teacher": "Micela Silvia"
+    },
+    {
+        "date": "2024-02-20T00:00:00",
+        "subject": "Matematica",
+        "kind": "Grafico",
+        "value": 8.0,
+        "comment": "Verifica di geometria sul calcolo dell'area di: rettangolo, parallelogrammo e quadrato.",
+        "teacher": "Micela Silvia"
+    },
+    {
         "date": "2024-02-20T00:00:00",
         "subject": "TECNOLOGIA",
         "kind": "Scritto",
