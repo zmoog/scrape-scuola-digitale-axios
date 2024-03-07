@@ -9,6 +9,14 @@
     },
     {
         "date": "2024-03-01T00:00:00",
+        "subject": "Italiano",
+        "kind": "Scritto",
+        "value": 8.25,
+        "comment": "Lettera, diario e autobiografia: verifica delle conoscenze e comprensione del testo.",
+        "teacher": "Rapalino Lara"
+    },
+    {
+        "date": "2024-03-01T00:00:00",
         "subject": "TECNOLOGIA",
         "kind": "Scritto",
         "value": 7.5,
