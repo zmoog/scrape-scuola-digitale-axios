@@ -1,5 +1,29 @@
 [
     {
+        "date": "2024-03-20T00:00:00",
+        "subject": "INGLESE",
+        "kind": "Orale",
+        "value": 4.75,
+        "comment": "Interrogazione",
+        "teacher": "Barbero Daniela"
+    },
+    {
+        "date": "2024-03-18T00:00:00",
+        "subject": "INGLESE",
+        "kind": "Scritto",
+        "value": 8.5,
+        "comment": "Verifica units 5-6",
+        "teacher": "Barbero Daniela"
+    },
+    {
+        "date": "2024-03-14T00:00:00",
+        "subject": "ARTE E IMMAGINE",
+        "kind": "Pratico",
+        "value": 7.5,
+        "comment": "Prospettiva centrale di una stanza di un museo virtuale (attivit\u00e0 svolta con la docente tirocinante Carbone)",
+        "teacher": "Pagliarulo Veronica"
+    },
+    {
         "date": "2024-03-12T00:00:00",
         "subject": "TECNOLOGIA",
         "kind": "Scritto",
@@ -16,12 +40,28 @@
         "teacher": "Novelli Cristina"
     },
     {
+        "date": "2024-03-11T00:00:00",
+        "subject": "Religione",
+        "kind": "Scritto",
+        "value": 7.0,
+        "comment": "VERIFICA SCRITTA",
+        "teacher": "Avanzato Paola Carla"
+    },
+    {
         "date": "2024-03-06T00:00:00",
         "subject": "MUSICA",
         "kind": "Pratico",
         "value": 6.0,
         "comment": "",
         "teacher": "Dipietromaria Paola"
+    },
+    {
+        "date": "2024-03-04T00:00:00",
+        "subject": "Italiano",
+        "kind": "Scritto",
+        "value": 8.0,
+        "comment": "Sintassi: attributo, apposizione e complemento oggetto.",
+        "teacher": "Rapalino Lara"
     },
     {
         "date": "2024-03-01T00:00:00",
