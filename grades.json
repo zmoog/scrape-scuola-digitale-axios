@@ -1,5 +1,13 @@
 [
     {
+        "date": "2024-03-21T00:00:00",
+        "subject": "Scienze",
+        "kind": "Scritto",
+        "value": 8.0,
+        "comment": "Verifica scritta sull'apparato circolatorio",
+        "teacher": "Micela Silvia"
+    },
+    {
         "date": "2024-03-20T00:00:00",
         "subject": "INGLESE",
         "kind": "Orale",
