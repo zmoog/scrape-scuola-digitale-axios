@@ -1,5 +1,13 @@
 [
     {
+        "date": "2024-04-08T00:00:00",
+        "subject": "Italiano",
+        "kind": "Scritto",
+        "value": 6.5,
+        "comment": "Tema in classe",
+        "teacher": "Rapalino Lara"
+    },
+    {
         "date": "2024-04-03T00:00:00",
         "subject": "Geografia",
         "kind": "Scritto",
