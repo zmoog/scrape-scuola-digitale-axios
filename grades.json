@@ -1,6 +1,14 @@
 [
     {
         "date": "2024-04-09T00:00:00",
+        "subject": "INGLESE",
+        "kind": "Orale",
+        "value": 9.5,
+        "comment": "Recupero dell'interrogazione sui brani",
+        "teacher": "Barbero Daniela"
+    },
+    {
+        "date": "2024-04-09T00:00:00",
         "subject": "Storia",
         "kind": "Scritto",
         "value": 8.0,
