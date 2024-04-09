@@ -73,6 +73,14 @@
     },
     {
         "date": "2024-03-12T00:00:00",
+        "subject": "Matematica",
+        "kind": "Scritto",
+        "value": 9.5,
+        "comment": "Verifica di aritmetica sulle radici quadrate e le loro propriet\u00e0",
+        "teacher": "Micela Silvia"
+    },
+    {
+        "date": "2024-03-12T00:00:00",
         "subject": "TECNOLOGIA",
         "kind": "Scritto",
         "value": 8.0,
