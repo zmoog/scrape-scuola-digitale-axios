@@ -1,5 +1,21 @@
 [
     {
+        "date": "2024-04-09T00:00:00",
+        "subject": "Storia",
+        "kind": "Scritto",
+        "value": 8.0,
+        "comment": "",
+        "teacher": "Novelli Cristina"
+    },
+    {
+        "date": "2024-04-09T00:00:00",
+        "subject": "TECNOLOGIA",
+        "kind": "Scritto",
+        "value": 7.75,
+        "comment": "",
+        "teacher": "Pavarin Maria Luisa"
+    },
+    {
         "date": "2024-04-08T00:00:00",
         "subject": "Italiano",
         "kind": "Scritto",
