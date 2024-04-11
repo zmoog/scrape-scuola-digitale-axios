@@ -32,6 +32,14 @@
         "teacher": "Rapalino Lara"
     },
     {
+        "date": "2024-04-04T00:00:00",
+        "subject": "Scienze",
+        "kind": "Scritto",
+        "value": 8.0,
+        "comment": "Verifica sull'apparato escretore",
+        "teacher": "Micela Silvia"
+    },
+    {
         "date": "2024-04-03T00:00:00",
         "subject": "Geografia",
         "kind": "Scritto",
