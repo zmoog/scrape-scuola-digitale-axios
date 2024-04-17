@@ -41,6 +41,14 @@
     },
     {
         "date": "2024-04-03T00:00:00",
+        "subject": "Italiano",
+        "kind": "Scritto",
+        "value": 7.5,
+        "comment": "Il genere poliziesco: comprensione del testo e verifica delle conoscenze.",
+        "teacher": "Rapalino Lara"
+    },
+    {
+        "date": "2024-04-03T00:00:00",
         "subject": "Geografia",
         "kind": "Scritto",
         "value": 7.3,
