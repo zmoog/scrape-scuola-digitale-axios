@@ -1,5 +1,13 @@
 [
     {
+        "date": "2024-04-18T00:00:00",
+        "subject": "SC.MOTORIE SPORTIVE",
+        "kind": "Pratico",
+        "value": 8.5,
+        "comment": "P.I. Rugby",
+        "teacher": "Cacciacarne Antonella"
+    },
+    {
         "date": "2024-04-09T00:00:00",
         "subject": "INGLESE",
         "kind": "Orale",
