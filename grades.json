@@ -16,6 +16,14 @@
         "teacher": "Cacciacarne Antonella"
     },
     {
+        "date": "2024-04-12T00:00:00",
+        "subject": "MUSICA",
+        "kind": "Scritto",
+        "value": 7.0,
+        "comment": "",
+        "teacher": "Dipietromaria Paola"
+    },
+    {
         "date": "2024-04-09T00:00:00",
         "subject": "INGLESE",
         "kind": "Orale",
