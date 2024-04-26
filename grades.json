@@ -1,5 +1,21 @@
 [
     {
+        "date": "2024-04-26T00:00:00",
+        "subject": "FRANCESE",
+        "kind": "Scritto",
+        "value": 7.5,
+        "comment": "Dialogo a coppie",
+        "teacher": "Giovannini Sonia"
+    },
+    {
+        "date": "2024-04-19T00:00:00",
+        "subject": "FRANCESE",
+        "kind": "Scritto",
+        "value": 7.5,
+        "comment": "Test di educazione civica",
+        "teacher": "Giovannini Sonia"
+    },
+    {
         "date": "2024-04-19T00:00:00",
         "subject": "FRANCESE",
         "kind": "Orale",
