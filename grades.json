@@ -8,6 +8,14 @@
         "teacher": "Giovannini Sonia"
     },
     {
+        "date": "2024-04-22T00:00:00",
+        "subject": "Italiano",
+        "kind": "Scritto",
+        "value": 7.5,
+        "comment": "Sintassi - Il complemento predicativo",
+        "teacher": "Rapalino Lara"
+    },
+    {
         "date": "2024-04-19T00:00:00",
         "subject": "FRANCESE",
         "kind": "Scritto",
