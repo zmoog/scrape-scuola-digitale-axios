@@ -1,5 +1,13 @@
 [
     {
+        "date": "2024-05-02T00:00:00",
+        "subject": "SC.MOTORIE SPORTIVE",
+        "kind": "Pratico",
+        "value": 8.0,
+        "comment": "A. I.",
+        "teacher": "Cacciacarne Antonella"
+    },
+    {
         "date": "2024-04-30T00:00:00",
         "subject": "Storia",
         "kind": "Scritto",
