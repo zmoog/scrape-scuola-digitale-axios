@@ -1,5 +1,13 @@
 [
     {
+        "date": "2024-05-08T00:00:00",
+        "subject": "Italiano",
+        "kind": "Orale",
+        "value": 8.0,
+        "comment": "Letteratura: Petrarca e Boccaccio.",
+        "teacher": "Rapalino Lara"
+    },
+    {
         "date": "2024-05-02T00:00:00",
         "subject": "SC.MOTORIE SPORTIVE",
         "kind": "Pratico",
