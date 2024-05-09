@@ -72,6 +72,14 @@
         "teacher": "Cacciacarne Antonella"
     },
     {
+        "date": "2024-04-16T00:00:00",
+        "subject": "Matematica",
+        "kind": "Grafico",
+        "value": 5.5,
+        "comment": "Verifica scritta di geometria sul teorema di Pitagora e la sua applicazione al rettangolo, al parallelogrammo, al quadrato e al triangolo equilatero.",
+        "teacher": "Micela Silvia"
+    },
+    {
         "date": "2024-04-12T00:00:00",
         "subject": "MUSICA",
         "kind": "Scritto",
