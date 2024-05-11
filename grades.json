@@ -78,5 +78,333 @@
         "value": 8.0,
         "comment": "Dramatisation dialogo in un negozio di alimenti",
         "teacher": "Giovannini Sonia"
+    },
+    {
+        "date": "2024-04-18T00:00:00",
+        "subject": "SC.MOTORIE SPORTIVE",
+        "kind": "Pratico",
+        "value": 8.5,
+        "comment": "P.I. Rugby",
+        "teacher": "Cacciacarne Antonella"
+    },
+    {
+        "date": "2024-04-16T00:00:00",
+        "subject": "Matematica",
+        "kind": "Grafico",
+        "value": 5.5,
+        "comment": "Verifica scritta di geometria sul teorema di Pitagora e la sua applicazione al rettangolo, al parallelogrammo, al quadrato e al triangolo equilatero.",
+        "teacher": "Micela Silvia"
+    },
+    {
+        "date": "2024-04-12T00:00:00",
+        "subject": "MUSICA",
+        "kind": "Scritto",
+        "value": 7.0,
+        "comment": "",
+        "teacher": "Dipietromaria Paola"
+    },
+    {
+        "date": "2024-04-09T00:00:00",
+        "subject": "INGLESE",
+        "kind": "Orale",
+        "value": 9.5,
+        "comment": "Recupero dell'interrogazione sui brani",
+        "teacher": "Barbero Daniela"
+    },
+    {
+        "date": "2024-04-09T00:00:00",
+        "subject": "Storia",
+        "kind": "Scritto",
+        "value": 8.0,
+        "comment": "",
+        "teacher": "Novelli Cristina"
+    },
+    {
+        "date": "2024-04-09T00:00:00",
+        "subject": "TECNOLOGIA",
+        "kind": "Scritto",
+        "value": 7.75,
+        "comment": "",
+        "teacher": "Pavarin Maria Luisa"
+    },
+    {
+        "date": "2024-04-08T00:00:00",
+        "subject": "Italiano",
+        "kind": "Scritto",
+        "value": 6.5,
+        "comment": "Tema in classe",
+        "teacher": "Rapalino Lara"
+    },
+    {
+        "date": "2024-04-04T00:00:00",
+        "subject": "Scienze",
+        "kind": "Scritto",
+        "value": 8.0,
+        "comment": "Verifica sull'apparato escretore",
+        "teacher": "Micela Silvia"
+    },
+    {
+        "date": "2024-04-03T00:00:00",
+        "subject": "Italiano",
+        "kind": "Scritto",
+        "value": 7.5,
+        "comment": "Il genere poliziesco: comprensione del testo e verifica delle conoscenze.",
+        "teacher": "Rapalino Lara"
+    },
+    {
+        "date": "2024-04-03T00:00:00",
+        "subject": "Geografia",
+        "kind": "Scritto",
+        "value": 7.3,
+        "comment": "",
+        "teacher": "Novelli Cristina"
+    },
+    {
+        "date": "2024-03-21T00:00:00",
+        "subject": "Scienze",
+        "kind": "Scritto",
+        "value": 8.0,
+        "comment": "Verifica scritta sull'apparato circolatorio",
+        "teacher": "Micela Silvia"
+    },
+    {
+        "date": "2024-03-20T00:00:00",
+        "subject": "INGLESE",
+        "kind": "Orale",
+        "value": 4.75,
+        "comment": "Interrogazione",
+        "teacher": "Barbero Daniela"
+    },
+    {
+        "date": "2024-03-18T00:00:00",
+        "subject": "INGLESE",
+        "kind": "Scritto",
+        "value": 8.5,
+        "comment": "Verifica units 5-6",
+        "teacher": "Barbero Daniela"
+    },
+    {
+        "date": "2024-03-14T00:00:00",
+        "subject": "ARTE E IMMAGINE",
+        "kind": "Pratico",
+        "value": 7.5,
+        "comment": "Prospettiva centrale di una stanza di un museo virtuale (attivit\u00e0 svolta con la docente tirocinante Carbone)",
+        "teacher": "Pagliarulo Veronica"
+    },
+    {
+        "date": "2024-03-12T00:00:00",
+        "subject": "Matematica",
+        "kind": "Scritto",
+        "value": 9.5,
+        "comment": "Verifica di aritmetica sulle radici quadrate e le loro propriet\u00e0",
+        "teacher": "Micela Silvia"
+    },
+    {
+        "date": "2024-03-12T00:00:00",
+        "subject": "TECNOLOGIA",
+        "kind": "Scritto",
+        "value": 8.0,
+        "comment": "",
+        "teacher": "Pavarin Maria Luisa"
+    },
+    {
+        "date": "2024-03-12T00:00:00",
+        "subject": "Storia",
+        "kind": "Orale",
+        "value": 7.0,
+        "comment": "",
+        "teacher": "Novelli Cristina"
+    },
+    {
+        "date": "2024-03-11T00:00:00",
+        "subject": "Religione",
+        "kind": "Scritto",
+        "value": 7.0,
+        "comment": "VERIFICA SCRITTA",
+        "teacher": "Avanzato Paola Carla"
+    },
+    {
+        "date": "2024-03-06T00:00:00",
+        "subject": "MUSICA",
+        "kind": "Pratico",
+        "value": 6.0,
+        "comment": "",
+        "teacher": "Dipietromaria Paola"
+    },
+    {
+        "date": "2024-03-04T00:00:00",
+        "subject": "Italiano",
+        "kind": "Scritto",
+        "value": 8.0,
+        "comment": "Sintassi: attributo, apposizione e complemento oggetto.",
+        "teacher": "Rapalino Lara"
+    },
+    {
+        "date": "2024-03-01T00:00:00",
+        "subject": "Italiano",
+        "kind": "Scritto",
+        "value": 8.25,
+        "comment": "Lettera, diario e autobiografia: verifica delle conoscenze e comprensione del testo.",
+        "teacher": "Rapalino Lara"
+    },
+    {
+        "date": "2024-03-01T00:00:00",
+        "subject": "TECNOLOGIA",
+        "kind": "Scritto",
+        "value": 7.5,
+        "comment": "",
+        "teacher": "Pavarin Maria Luisa"
+    },
+    {
+        "date": "2024-02-27T00:00:00",
+        "subject": "Geografia",
+        "kind": "Scritto",
+        "value": 6.0,
+        "comment": "",
+        "teacher": "Novelli Cristina"
+    },
+    {
+        "date": "2024-02-23T00:00:00",
+        "subject": "MUSICA",
+        "kind": "Pratico",
+        "value": 8.0,
+        "comment": "",
+        "teacher": "Dipietromaria Paola"
+    },
+    {
+        "date": "2024-02-22T00:00:00",
+        "subject": "Matematica",
+        "kind": "Grafico",
+        "value": 8.0,
+        "comment": "Verifica di geometria sul calcolo dell'area di: triangolo, rombo e trapezio.",
+        "teacher": "Micela Silvia"
+    },
+    {
+        "date": "2024-02-20T00:00:00",
+        "subject": "Matematica",
+        "kind": "Grafico",
+        "value": 8.0,
+        "comment": "Verifica di geometria sul calcolo dell'area di: rettangolo, parallelogrammo e quadrato.",
+        "teacher": "Micela Silvia"
+    },
+    {
+        "date": "2024-02-20T00:00:00",
+        "subject": "TECNOLOGIA",
+        "kind": "Scritto",
+        "value": 8.5,
+        "comment": "",
+        "teacher": "Pavarin Maria Luisa"
+    },
+    {
+        "date": "2024-02-20T00:00:00",
+        "subject": "Storia",
+        "kind": "Scritto",
+        "value": 7.0,
+        "comment": "",
+        "teacher": "Novelli Cristina"
+    },
+    {
+        "date": "2024-02-19T00:00:00",
+        "subject": "INGLESE",
+        "kind": "Scritto",
+        "value": 7.5,
+        "comment": "Verifica sulla seconda tabella dei verbi irregolari",
+        "teacher": "Barbero Daniela"
+    },
+    {
+        "date": "2024-02-16T00:00:00",
+        "subject": "Italiano",
+        "kind": "Orale",
+        "value": 8.0,
+        "comment": "Letteratura: Dante e la Divina Commedia",
+        "teacher": "Rapalino Lara"
+    },
+    {
+        "date": "2024-02-16T00:00:00",
+        "subject": "FRANCESE",
+        "kind": "Orale",
+        "value": 7.75,
+        "comment": "",
+        "teacher": "Giovannini Sonia"
+    },
+    {
+        "date": "2024-02-15T00:00:00",
+        "subject": "Scienze",
+        "kind": "Scritto",
+        "value": 8.5,
+        "comment": "Verifica scritta sull'apparato respiratorio",
+        "teacher": "Micela Silvia"
+    },
+    {
+        "date": "2024-02-09T00:00:00",
+        "subject": "FRANCESE",
+        "kind": "Scritto",
+        "value": 8.0,
+        "comment": "Dialogo in un negozio di abbigliamento",
+        "teacher": "Giovannini Sonia"
+    },
+    {
+        "date": "2024-02-09T00:00:00",
+        "subject": "MUSICA",
+        "kind": "Pratico",
+        "value": 7.5,
+        "comment": "",
+        "teacher": "Dipietromaria Paola"
+    },
+    {
+        "date": "2024-02-08T00:00:00",
+        "subject": "Scienze",
+        "kind": "Scritto",
+        "value": 8.0,
+        "comment": "Verifica scritta sull'apparato digerente",
+        "teacher": "Micela Silvia"
+    },
+    {
+        "date": "2024-02-08T00:00:00",
+        "subject": "SC.MOTORIE SPORTIVE",
+        "kind": "Pratico",
+        "value": 9.0,
+        "comment": "C.A.P.I. Tennis",
+        "teacher": "Cacciacarne Antonella"
+    },
+    {
+        "date": "2024-02-07T00:00:00",
+        "subject": "Italiano",
+        "kind": "Scritto",
+        "value": 7.75,
+        "comment": "Sintassi: soggetto e predicato.",
+        "teacher": "Rapalino Lara"
+    },
+    {
+        "date": "2024-02-07T00:00:00",
+        "subject": "MUSICA",
+        "kind": "Pratico",
+        "value": 7.0,
+        "comment": "",
+        "teacher": "Dipietromaria Paola"
+    },
+    {
+        "date": "2024-02-06T00:00:00",
+        "subject": "Matematica",
+        "kind": "Scritto",
+        "value": 7.0,
+        "comment": "Verifica di recupero di aritmetica sulle operazioni con le frazioni",
+        "teacher": "Micela Silvia"
+    },
+    {
+        "date": "2024-02-06T00:00:00",
+        "subject": "Storia",
+        "kind": "Orale",
+        "value": 9.0,
+        "comment": "",
+        "teacher": "Novelli Cristina"
+    },
+    {
+        "date": "2024-02-02T00:00:00",
+        "subject": "TECNOLOGIA",
+        "kind": "Scritto",
+        "value": 8.0,
+        "comment": "",
+        "teacher": "Pavarin Maria Luisa"
     }
 ]
