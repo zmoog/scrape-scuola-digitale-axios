@@ -1,5 +1,13 @@
 [
     {
+        "date": "2024-05-14T00:00:00",
+        "subject": "Storia",
+        "kind": "Orale",
+        "value": 8.0,
+        "comment": "",
+        "teacher": "Novelli Cristina"
+    },
+    {
         "date": "2024-05-10T00:00:00",
         "subject": "ARTE E IMMAGINE",
         "kind": "Grafico",
@@ -298,7 +306,7 @@
     {
         "date": "2024-02-20T00:00:00",
         "subject": "Storia",
-        "kind": "Scritto",
+        "kind": "Orale",
         "value": 7.0,
         "comment": "",
         "teacher": "Novelli Cristina"
@@ -394,7 +402,7 @@
     {
         "date": "2024-02-06T00:00:00",
         "subject": "Storia",
-        "kind": "Orale",
+        "kind": "Scritto",
         "value": 9.0,
         "comment": "",
         "teacher": "Novelli Cristina"
