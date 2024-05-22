@@ -8,6 +8,14 @@
         "teacher": "Pavarin Maria Luisa"
     },
     {
+        "date": "2024-05-16T00:00:00",
+        "subject": "Italiano",
+        "kind": "Scritto",
+        "value": 5.0,
+        "comment": "Educazione civica - alimentazione e salute: prova di verifica delle conoscenze e comprensione di un testo.",
+        "teacher": "Rapalino Lara"
+    },
+    {
         "date": "2024-05-15T00:00:00",
         "subject": "INGLESE",
         "kind": "Scritto",
