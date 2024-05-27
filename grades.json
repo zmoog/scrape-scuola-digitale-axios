@@ -8,6 +8,14 @@
         "teacher": "Pavarin Maria Luisa"
     },
     {
+        "date": "2024-05-20T00:00:00",
+        "subject": "Religione",
+        "kind": "Scritto",
+        "value": 7.0,
+        "comment": "VERIFICA SCRITTA RELIGIONE/ED. CIVICA",
+        "teacher": "Avanzato Paola Carla"
+    },
+    {
         "date": "2024-05-16T00:00:00",
         "subject": "Italiano",
         "kind": "Scritto",
