@@ -1,11 +1,35 @@
 [
     {
+        "date": "2024-05-22T00:00:00",
+        "subject": "EDUCAZIONE CIVICA",
+        "kind": "Scritto",
+        "value": 8.0,
+        "comment": "",
+        "teacher": "Micela Silvia"
+    },
+    {
         "date": "2024-05-21T00:00:00",
         "subject": "TECNOLOGIA",
         "kind": "Scritto",
         "value": 8.0,
         "comment": "",
         "teacher": "Pavarin Maria Luisa"
+    },
+    {
+        "date": "2024-05-20T00:00:00",
+        "subject": "EDUCAZIONE CIVICA",
+        "kind": "Scritto",
+        "value": 7.0,
+        "comment": "",
+        "teacher": "Micela Silvia"
+    },
+    {
+        "date": "2024-05-20T00:00:00",
+        "subject": "EDUCAZIONE CIVICA",
+        "kind": "Scritto",
+        "value": 7.5,
+        "comment": "",
+        "teacher": "Micela Silvia"
     },
     {
         "date": "2024-05-20T00:00:00",
@@ -62,6 +86,14 @@
         "value": 8.0,
         "comment": "Letteratura: Petrarca e Boccaccio.",
         "teacher": "Rapalino Lara"
+    },
+    {
+        "date": "2024-05-03T00:00:00",
+        "subject": "EDUCAZIONE CIVICA",
+        "kind": "Scritto",
+        "value": 6.0,
+        "comment": "",
+        "teacher": "Micela Silvia"
     },
     {
         "date": "2024-05-03T00:00:00",
