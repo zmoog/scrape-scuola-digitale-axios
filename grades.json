@@ -80,6 +80,14 @@
         "teacher": "Pagliarulo Veronica"
     },
     {
+        "date": "2024-05-09T00:00:00",
+        "subject": "Matematica",
+        "kind": "Scritto",
+        "value": 7.75,
+        "comment": "Verifica di aritmetica sui rapporti e le proporzioni",
+        "teacher": "Micela Silvia"
+    },
+    {
         "date": "2024-05-08T00:00:00",
         "subject": "Italiano",
         "kind": "Orale",
