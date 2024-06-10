@@ -1,11 +1,67 @@
 [
     {
+        "date": "2024-06-05T00:00:00",
+        "subject": "MUSICA",
+        "kind": "Scritto",
+        "value": 6.0,
+        "comment": "",
+        "teacher": "Dipietromaria Paola"
+    },
+    {
+        "date": "2024-06-04T00:00:00",
+        "subject": "Storia",
+        "kind": "Scritto",
+        "value": 6.3,
+        "comment": "",
+        "teacher": "Novelli Cristina"
+    },
+    {
+        "date": "2024-05-31T00:00:00",
+        "subject": "FRANCESE",
+        "kind": "Scritto",
+        "value": 5.0,
+        "comment": "Verifica unit\u00e0 10",
+        "teacher": "Giovannini Sonia"
+    },
+    {
+        "date": "2024-05-30T00:00:00",
+        "subject": "SC.MOTORIE SPORTIVE",
+        "kind": "Scritto",
+        "value": 7.25,
+        "comment": "Verifica scritta sulla pallamano",
+        "teacher": "Cacciacarne Antonella"
+    },
+    {
+        "date": "2024-05-29T00:00:00",
+        "subject": "ARTE E IMMAGINE",
+        "kind": "Grafico",
+        "value": 10.0,
+        "comment": "Lavoro di gruppo: fumetto e cyberbullismo",
+        "teacher": "Pagliarulo Veronica"
+    },
+    {
         "date": "2024-05-29T00:00:00",
         "subject": "Geografia",
         "kind": "Scritto",
         "value": 7.0,
         "comment": "",
         "teacher": "Novelli Cristina"
+    },
+    {
+        "date": "2024-05-28T00:00:00",
+        "subject": "Matematica",
+        "kind": "Grafico",
+        "value": 7.75,
+        "comment": "Verifica di geometria di recupero sul teorema di Pitagora",
+        "teacher": "Micela Silvia"
+    },
+    {
+        "date": "2024-05-24T00:00:00",
+        "subject": "Italiano",
+        "kind": "Scritto",
+        "value": 6.25,
+        "comment": "Sintassi: I complementi indiretti (primo gruppo).",
+        "teacher": "Rapalino Lara"
     },
     {
         "date": "2024-05-22T00:00:00",
@@ -33,19 +89,19 @@
     },
     {
         "date": "2024-05-20T00:00:00",
-        "subject": "EDUCAZIONE CIVICA",
-        "kind": "Scritto",
-        "value": 7.5,
-        "comment": "",
-        "teacher": "Micela Silvia"
-    },
-    {
-        "date": "2024-05-20T00:00:00",
         "subject": "Religione",
         "kind": "Scritto",
         "value": 7.0,
         "comment": "VERIFICA SCRITTA RELIGIONE/ED. CIVICA",
         "teacher": "Avanzato Paola Carla"
+    },
+    {
+        "date": "2024-05-17T00:00:00",
+        "subject": "Italiano",
+        "kind": "Scritto",
+        "value": 6.0,
+        "comment": "Tema in classe",
+        "teacher": "Rapalino Lara"
     },
     {
         "date": "2024-05-16T00:00:00",
@@ -158,6 +214,14 @@
         "value": 7.5,
         "comment": "Sintassi - Il complemento predicativo",
         "teacher": "Rapalino Lara"
+    },
+    {
+        "date": "2024-04-19T00:00:00",
+        "subject": "EDUCAZIONE CIVICA",
+        "kind": "Scritto",
+        "value": 7.5,
+        "comment": "",
+        "teacher": "Micela Silvia"
     },
     {
         "date": "2024-04-19T00:00:00",
@@ -490,7 +554,7 @@
     {
         "date": "2024-02-06T00:00:00",
         "subject": "Storia",
-        "kind": "Scritto",
+        "kind": "Orale",
         "value": 9.0,
         "comment": "",
         "teacher": "Novelli Cristina"
