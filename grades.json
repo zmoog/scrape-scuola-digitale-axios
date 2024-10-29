@@ -1,5 +1,13 @@
 [
     {
+        "date": "2024-10-24T00:00:00",
+        "subject": "TECNOLOGIA",
+        "kind": "Grafico",
+        "value": 8.5,
+        "comment": "",
+        "teacher": "Pavarin Maria Luisa"
+    },
+    {
         "date": "2024-10-21T00:00:00",
         "subject": "Geografia",
         "kind": "Scritto",
