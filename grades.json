@@ -1,5 +1,29 @@
 [
     {
+        "date": "2024-11-07T00:00:00",
+        "subject": "Italiano",
+        "kind": "Orale",
+        "value": 7.5,
+        "comment": "Attivit\u00e0 di analisi, riscrittura e interpretazione di un testo teatrale (\"La bottega del caff\u00e8\" di C. Goldoni).",
+        "teacher": "Rapalino Lara"
+    },
+    {
+        "date": "2024-11-06T00:00:00",
+        "subject": "Religione",
+        "kind": "Scritto",
+        "value": 7.0,
+        "comment": "Lavoro progetto di vita",
+        "teacher": "Avanzato Paola Carla"
+    },
+    {
+        "date": "2024-11-05T00:00:00",
+        "subject": "Matematica",
+        "kind": "Scritto",
+        "value": 6.0,
+        "comment": "Interrogazione di geometria sulla circonferenza , cerchio e settore circolare",
+        "teacher": "Micela Silvia"
+    },
+    {
         "date": "2024-10-31T00:00:00",
         "subject": "Italiano",
         "kind": "Scritto",
