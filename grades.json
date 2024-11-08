@@ -1,5 +1,13 @@
 [
     {
+        "date": "2024-11-08T00:00:00",
+        "subject": "ARTE E IMMAGINE",
+        "kind": "Grafico",
+        "value": 9.0,
+        "comment": "Un poster per la pace",
+        "teacher": "Pagliarulo Veronica"
+    },
+    {
         "date": "2024-11-07T00:00:00",
         "subject": "Italiano",
         "kind": "Orale",
