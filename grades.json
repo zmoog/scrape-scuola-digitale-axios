@@ -58,6 +58,14 @@
     {
         "date": "2024-11-05T00:00:00",
         "subject": "Matematica",
+        "kind": "Pratico",
+        "value": 6.0,
+        "comment": "Interrogazione di geometria",
+        "teacher": "Micela Silvia"
+    },
+    {
+        "date": "2024-11-05T00:00:00",
+        "subject": "Matematica",
         "kind": "Scritto",
         "value": 6.0,
         "comment": "Interrogazione di geometria sulla circonferenza , cerchio e settore circolare",
