@@ -32,6 +32,14 @@
         "teacher": "Barbero Daniela"
     },
     {
+        "date": "2024-11-12T00:00:00",
+        "subject": "Matematica",
+        "kind": "Grafico",
+        "value": 6.25,
+        "comment": "Verifica di geometria sui poligoni inscritti e circoscritti",
+        "teacher": "Micela Silvia"
+    },
+    {
         "date": "2024-11-08T00:00:00",
         "subject": "Scienze",
         "kind": "Scritto",
@@ -67,14 +75,6 @@
         "date": "2024-11-05T00:00:00",
         "subject": "Matematica",
         "kind": "Pratico",
-        "value": 6.0,
-        "comment": "Interrogazione di geometria",
-        "teacher": "Micela Silvia"
-    },
-    {
-        "date": "2024-11-05T00:00:00",
-        "subject": "Matematica",
-        "kind": "Scritto",
         "value": 6.0,
         "comment": "Interrogazione di geometria sulla circonferenza , cerchio e settore circolare",
         "teacher": "Micela Silvia"
