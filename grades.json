@@ -2,6 +2,14 @@
     {
         "date": "2024-11-28T00:00:00",
         "subject": "SC.MOTORIE SPORTIVE",
+        "kind": "Scritto",
+        "value": 7.0,
+        "comment": "Verifica scritta sulle regole del basket.",
+        "teacher": "Cacciacarne Antonella"
+    },
+    {
+        "date": "2024-11-28T00:00:00",
+        "subject": "SC.MOTORIE SPORTIVE",
         "kind": "Pratico",
         "value": 8.5,
         "comment": "Fondamentali del basket.",
