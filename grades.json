@@ -1,5 +1,13 @@
 [
     {
+        "date": "2024-12-02T00:00:00",
+        "subject": "Storia",
+        "kind": "Scritto",
+        "value": 7.3,
+        "comment": "",
+        "teacher": "Novelli Cristina"
+    },
+    {
         "date": "2024-11-28T00:00:00",
         "subject": "SC.MOTORIE SPORTIVE",
         "kind": "Scritto",
@@ -22,6 +30,14 @@
         "value": 6.7,
         "comment": "",
         "teacher": "Novelli Cristina"
+    },
+    {
+        "date": "2024-11-18T00:00:00",
+        "subject": "Italiano",
+        "kind": "Scritto",
+        "value": 7.25,
+        "comment": "Verifica di sintassi (analisi del periodo)",
+        "teacher": "Rapalino Lara"
     },
     {
         "date": "2024-11-14T00:00:00",
