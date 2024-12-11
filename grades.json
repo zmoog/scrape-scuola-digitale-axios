@@ -1,5 +1,13 @@
 [
     {
+        "date": "2024-12-10T00:00:00",
+        "subject": "Matematica",
+        "kind": "Grafico",
+        "value": 10.0,
+        "comment": "Verifica di geometria sulle formule della circonferenza e del cerchio",
+        "teacher": "Micela Silvia"
+    },
+    {
         "date": "2024-12-09T00:00:00",
         "subject": "Storia",
         "kind": "Scritto",
