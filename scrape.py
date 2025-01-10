@@ -40,7 +40,6 @@ def run(playwright: Playwright) -> [str, List[Grade]]:
     page.get_by_placeholder("Codice utente o mail personale").press("Tab")
     page.get_by_placeholder("Password").fill(os.environ["AXIOS_PASSWORD"])
     page.get_by_role("button", name="Accedi con Axios").click()
-    page.get_by_text("Famiglie").click()
     page.locator("div").filter(has_text=re.compile(r"^Registro$")).locator("i").click()
     page.get_by_role("link", name="VAI ALLE TUE VALUTAZIONI").click()
     page.get_by_label("Visualizza 510152050100Tutti").select_option("-1")
