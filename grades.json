@@ -1,5 +1,93 @@
 [
     {
+        "date": "2025-01-07T00:00:00",
+        "subject": "INGLESE",
+        "kind": "Scritto",
+        "value": 0.0,
+        "comment": "",
+        "teacher": "Barbero Daniela"
+    },
+    {
+        "date": "2024-12-20T00:00:00",
+        "subject": "SC.MOTORIE SPORTIVE",
+        "kind": "Altro/Unico",
+        "value": 8.5,
+        "comment": "C.A.P.I.",
+        "teacher": "Cacciacarne Antonella"
+    },
+    {
+        "date": "2024-12-20T00:00:00",
+        "subject": "SC.MOTORIE SPORTIVE",
+        "kind": "Pratico",
+        "value": 9.0,
+        "comment": "Fondamentali del tennis.",
+        "teacher": "Cacciacarne Antonella"
+    },
+    {
+        "date": "2024-12-19T00:00:00",
+        "subject": "TECNOLOGIA",
+        "kind": "Scritto",
+        "value": 8.5,
+        "comment": "",
+        "teacher": "Pavarin Maria Luisa"
+    },
+    {
+        "date": "2024-12-17T00:00:00",
+        "subject": "Matematica",
+        "kind": "Grafico",
+        "value": 9.0,
+        "comment": "Verifica di geometria sulla lunghezza della circonferenza, area del cerchio, area del settore, area del segmento e della corona circolare.",
+        "teacher": "Micela Silvia"
+    },
+    {
+        "date": "2024-12-17T00:00:00",
+        "subject": "Geografia",
+        "kind": "Scritto",
+        "value": 5.5,
+        "comment": "",
+        "teacher": "Novelli Cristina"
+    },
+    {
+        "date": "2024-12-16T00:00:00",
+        "subject": "Italiano",
+        "kind": "Scritto",
+        "value": 6.25,
+        "comment": "Tema in classe",
+        "teacher": "Rapalino Lara"
+    },
+    {
+        "date": "2024-12-16T00:00:00",
+        "subject": "Italiano",
+        "kind": "Orale",
+        "value": 7.5,
+        "comment": "Letteratura: Romanticismo e Neoclassicismo; Foscolo e Leopardi.",
+        "teacher": "Rapalino Lara"
+    },
+    {
+        "date": "2024-12-13T00:00:00",
+        "subject": "Matematica",
+        "kind": "Scritto",
+        "value": 9.0,
+        "comment": "Verifica scritta di algebra sulle operazioni con i numeri relativi",
+        "teacher": "Micela Silvia"
+    },
+    {
+        "date": "2024-12-13T00:00:00",
+        "subject": "Italiano",
+        "kind": "Scritto",
+        "value": 6.0,
+        "comment": "Prova di comprensione del testo \"Abbiamo bisogno di legalit\u00e0\" tratto da un articolo presente sul sito www.libera.it",
+        "teacher": "Rapalino Lara"
+    },
+    {
+        "date": "2024-12-11T00:00:00",
+        "subject": "Scienze",
+        "kind": "Scritto",
+        "value": 8.75,
+        "comment": "Verifica scritta sull'apparato riproduttore e le malattie trasmissibili sessualmente",
+        "teacher": "Micela Silvia"
+    },
+    {
         "date": "2024-12-10T00:00:00",
         "subject": "Matematica",
         "kind": "Grafico",
@@ -22,6 +110,14 @@
         "value": 9.5,
         "comment": "A.I. (tennis 1)",
         "teacher": "Cacciacarne Antonella"
+    },
+    {
+        "date": "2024-12-03T00:00:00",
+        "subject": "FRANCESE",
+        "kind": "Scritto",
+        "value": 7.0,
+        "comment": "Verifica Unit\u00e0 12",
+        "teacher": "Giovannini Sonia"
     },
     {
         "date": "2024-12-02T00:00:00",
