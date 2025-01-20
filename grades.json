@@ -1,5 +1,53 @@
 [
     {
+        "date": "2025-01-20T00:00:00",
+        "subject": "EDUCAZIONE CIVICA",
+        "kind": "Scritto",
+        "value": 6.75,
+        "comment": "",
+        "teacher": "Micela Silvia"
+    },
+    {
+        "date": "2025-01-15T00:00:00",
+        "subject": "INGLESE",
+        "kind": "Orale",
+        "value": 8.0,
+        "comment": "Interrogazione",
+        "teacher": "Barbero Daniela"
+    },
+    {
+        "date": "2025-01-15T00:00:00",
+        "subject": "Geografia",
+        "kind": "Scritto",
+        "value": 7.0,
+        "comment": "",
+        "teacher": "Novelli Cristina"
+    },
+    {
+        "date": "2025-01-14T00:00:00",
+        "subject": "FRANCESE",
+        "kind": "Scritto",
+        "value": 6.5,
+        "comment": "Comprensione del testo scritta",
+        "teacher": "Giovannini Sonia"
+    },
+    {
+        "date": "2025-01-13T00:00:00",
+        "subject": "Italiano",
+        "kind": "Scritto",
+        "value": 7.5,
+        "comment": "Il periodo",
+        "teacher": "Rapalino Lara"
+    },
+    {
+        "date": "2025-01-13T00:00:00",
+        "subject": "Storia",
+        "kind": "Orale",
+        "value": 7.7,
+        "comment": "",
+        "teacher": "Novelli Cristina"
+    },
+    {
         "date": "2025-01-07T00:00:00",
         "subject": "INGLESE",
         "kind": "Scritto",
@@ -46,6 +94,14 @@
         "value": 5.5,
         "comment": "",
         "teacher": "Novelli Cristina"
+    },
+    {
+        "date": "2024-12-16T00:00:00",
+        "subject": "Religione",
+        "kind": "Scritto",
+        "value": 6.75,
+        "comment": "VERIFICA SCRITTA ED. CIVICA/RELIGIONE",
+        "teacher": "Avanzato Paola Carla"
     },
     {
         "date": "2024-12-16T00:00:00",
