@@ -1,6 +1,14 @@
 [
     {
         "date": "2025-01-28T00:00:00",
+        "subject": "ARTE E IMMAGINE",
+        "kind": "Grafico",
+        "value": 9.0,
+        "comment": "Tav.3 Tour Eiffel",
+        "teacher": "Pagliarulo Veronica"
+    },
+    {
+        "date": "2025-01-28T00:00:00",
         "subject": "Matematica",
         "kind": "Altro/Unico",
         "value": 0.0,
