@@ -2,6 +2,14 @@
     {
         "date": "2025-01-28T00:00:00",
         "subject": "ARTE E IMMAGINE",
+        "kind": "Scritto",
+        "value": 8.0,
+        "comment": "Educazione civica: scheda di riflessione e analisi dell'opera \"Il quarto stato\" e i diritti dei lavoratori.",
+        "teacher": "Pagliarulo Veronica"
+    },
+    {
+        "date": "2025-01-28T00:00:00",
+        "subject": "ARTE E IMMAGINE",
         "kind": "Grafico",
         "value": 9.0,
         "comment": "Tav.3 Tour Eiffel",
