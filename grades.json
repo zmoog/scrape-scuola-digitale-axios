@@ -1,5 +1,13 @@
 [
     {
+        "date": "2025-01-31T00:00:00",
+        "subject": "ARTE E IMMAGINE",
+        "kind": "Grafico",
+        "value": 9.0,
+        "comment": "Tav.2 Romanticismo",
+        "teacher": "Pagliarulo Veronica"
+    },
+    {
         "date": "2025-01-28T00:00:00",
         "subject": "ARTE E IMMAGINE",
         "kind": "Scritto",
@@ -30,6 +38,14 @@
         "value": 6.75,
         "comment": "",
         "teacher": "Micela Silvia"
+    },
+    {
+        "date": "2025-01-17T00:00:00",
+        "subject": "Italiano",
+        "kind": "Scritto",
+        "value": 7.0,
+        "comment": "Produzione scritta: attivit\u00e0 relativa alla lettura di uno dei libri di approfondimento sul tema della lotta alle mafie.",
+        "teacher": "Rapalino Lara"
     },
     {
         "date": "2025-01-15T00:00:00",
