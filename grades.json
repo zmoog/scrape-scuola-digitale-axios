@@ -89,6 +89,14 @@
     },
     {
         "date": "2025-01-07T00:00:00",
+        "subject": "EDUCAZIONE CIVICA",
+        "kind": "Scritto",
+        "value": 8.0,
+        "comment": "",
+        "teacher": "Micela Silvia"
+    },
+    {
+        "date": "2025-01-07T00:00:00",
         "subject": "INGLESE",
         "kind": "Scritto",
         "value": 0.0,
