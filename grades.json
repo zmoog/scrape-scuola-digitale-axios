@@ -32,6 +32,14 @@
         "teacher": "Micela Silvia"
     },
     {
+        "date": "2025-01-22T00:00:00",
+        "subject": "INGLESE",
+        "kind": "Scritto",
+        "value": 9.5,
+        "comment": "Test units 3-4",
+        "teacher": "Barbero Daniela"
+    },
+    {
         "date": "2025-01-20T00:00:00",
         "subject": "EDUCAZIONE CIVICA",
         "kind": "Scritto",
