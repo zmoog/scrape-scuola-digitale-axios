@@ -1,5 +1,13 @@
 [
     {
+        "date": "2025-02-12T00:00:00",
+        "subject": "Geografia",
+        "kind": "Scritto",
+        "value": 6.5,
+        "comment": "",
+        "teacher": "Novelli Cristina"
+    },
+    {
         "date": "2025-02-11T00:00:00",
         "subject": "Matematica",
         "kind": "Grafico",
