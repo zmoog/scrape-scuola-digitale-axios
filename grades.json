@@ -8,6 +8,14 @@
         "teacher": "Antonini Alessandro"
     },
     {
+        "date": "2025-02-13T00:00:00",
+        "subject": "Scienze",
+        "kind": "Scritto",
+        "value": 9.75,
+        "comment": "Verifica scritta sulla struttura del DNA e la genetica",
+        "teacher": "Micela Silvia"
+    },
+    {
         "date": "2025-02-12T00:00:00",
         "subject": "Geografia",
         "kind": "Scritto",
