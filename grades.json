@@ -8,6 +8,14 @@
         "teacher": "Micela Silvia"
     },
     {
+        "date": "2025-02-24T00:00:00",
+        "subject": "Geografia",
+        "kind": "Orale",
+        "value": 6.7,
+        "comment": "",
+        "teacher": "Novelli Cristina"
+    },
+    {
         "date": "2025-02-17T00:00:00",
         "subject": "MUSICA",
         "kind": "Pratico",
