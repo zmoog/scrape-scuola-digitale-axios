@@ -1,5 +1,13 @@
 [
     {
+        "date": "2025-02-26T00:00:00",
+        "subject": "INGLESE",
+        "kind": "Scritto",
+        "value": 0.0,
+        "comment": "",
+        "teacher": "Barbero Daniela"
+    },
+    {
         "date": "2025-02-25T00:00:00",
         "subject": "Matematica",
         "kind": "Pratico",
@@ -14,6 +22,14 @@
         "value": 6.7,
         "comment": "",
         "teacher": "Novelli Cristina"
+    },
+    {
+        "date": "2025-02-19T00:00:00",
+        "subject": "INGLESE",
+        "kind": "Scritto",
+        "value": 6.0,
+        "comment": "Produzione scritta (summary, letter writing)",
+        "teacher": "Barbero Daniela"
     },
     {
         "date": "2025-02-17T00:00:00",
