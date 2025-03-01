@@ -78,29 +78,5 @@
         "value": 7.25,
         "comment": "",
         "teacher": "Antonini Alessandro"
-    },
-    {
-        "date": "2025-02-10T00:00:00",
-        "subject": "Storia",
-        "kind": "Scritto",
-        "value": 7.5,
-        "comment": "",
-        "teacher": "Novelli Cristina"
-    },
-    {
-        "date": "2025-02-07T00:00:00",
-        "subject": "FRANCESE",
-        "kind": "Orale",
-        "value": 8.5,
-        "comment": "Interrogazione",
-        "teacher": "Giovannini Sonia"
-    },
-    {
-        "date": "2025-02-06T00:00:00",
-        "subject": "TECNOLOGIA",
-        "kind": "Scritto",
-        "value": 8.5,
-        "comment": "",
-        "teacher": "Fantini Veronica"
     }
 ]
