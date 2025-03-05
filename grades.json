@@ -40,6 +40,14 @@
         "teacher": "Antonini Alessandro"
     },
     {
+        "date": "2025-02-14T00:00:00",
+        "subject": "Matematica",
+        "kind": "Scritto",
+        "value": 7.25,
+        "comment": "Verifica scritta sulle operazioni con i monomi",
+        "teacher": "Micela Silvia"
+    },
+    {
         "date": "2025-02-13T00:00:00",
         "subject": "Scienze",
         "kind": "Scritto",
