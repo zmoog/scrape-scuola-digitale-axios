@@ -1,5 +1,13 @@
 [
     {
+        "date": "2025-03-07T00:00:00",
+        "subject": "ARTE E IMMAGINE",
+        "kind": "Grafico",
+        "value": 9.0,
+        "comment": "astrattismo",
+        "teacher": "Pagliarulo Veronica"
+    },
+    {
         "date": "2025-03-06T00:00:00",
         "subject": "Italiano",
         "kind": "Orale",
