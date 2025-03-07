@@ -1,5 +1,13 @@
 [
     {
+        "date": "2025-03-06T00:00:00",
+        "subject": "Italiano",
+        "kind": "Orale",
+        "value": 7.5,
+        "comment": "Letteratura: Manzoni",
+        "teacher": "Rapalino Lara"
+    },
+    {
         "date": "2025-02-27T00:00:00",
         "subject": "Italiano",
         "kind": "Scritto",
