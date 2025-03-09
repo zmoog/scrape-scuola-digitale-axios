@@ -56,6 +56,14 @@
         "teacher": "Barbero Daniela"
     },
     {
+        "date": "2025-02-18T00:00:00",
+        "subject": "Matematica",
+        "kind": "Grafico",
+        "value": 7.5,
+        "comment": "Verifica di geometria solida sui prismi",
+        "teacher": "Micela Silvia"
+    },
+    {
         "date": "2025-02-17T00:00:00",
         "subject": "MUSICA",
         "kind": "Pratico",
