@@ -1,5 +1,13 @@
 [
     {
+        "date": "2025-03-10T00:00:00",
+        "subject": "Geografia",
+        "kind": "Scritto",
+        "value": 8.7,
+        "comment": "",
+        "teacher": "Novelli Cristina"
+    },
+    {
         "date": "2025-03-07T00:00:00",
         "subject": "ARTE E IMMAGINE",
         "kind": "Grafico",
