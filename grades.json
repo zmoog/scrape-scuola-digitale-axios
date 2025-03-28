@@ -17,6 +17,14 @@
     },
     {
         "date": "2025-03-14T00:00:00",
+        "subject": "FRANCESE",
+        "kind": "Scritto",
+        "value": 7.5,
+        "comment": "Comprensione del testo",
+        "teacher": "Giovannini Sonia"
+    },
+    {
+        "date": "2025-03-14T00:00:00",
         "subject": "Scienze",
         "kind": "Scritto",
         "value": 8.0,
