@@ -56,6 +56,14 @@
         "teacher": "Micela Silvia"
     },
     {
+        "date": "2025-03-13T00:00:00",
+        "subject": "SC.MOTORIE SPORTIVE",
+        "kind": "Pratico",
+        "value": 7.0,
+        "comment": "getto del peso",
+        "teacher": "Cacciacarne Antonella"
+    },
+    {
         "date": "2025-03-11T00:00:00",
         "subject": "Storia",
         "kind": "Scritto",
@@ -78,6 +86,14 @@
         "value": 9.0,
         "comment": "astrattismo",
         "teacher": "Pagliarulo Veronica"
+    },
+    {
+        "date": "2025-03-06T00:00:00",
+        "subject": "SC.MOTORIE SPORTIVE",
+        "kind": "Pratico",
+        "value": 6.5,
+        "comment": "Atletica: salto in alto",
+        "teacher": "Cacciacarne Antonella"
     },
     {
         "date": "2025-03-06T00:00:00",
@@ -206,6 +222,14 @@
         "value": 8.5,
         "comment": "Interrogazione",
         "teacher": "Giovannini Sonia"
+    },
+    {
+        "date": "2025-02-06T00:00:00",
+        "subject": "SC.MOTORIE SPORTIVE",
+        "kind": "Pratico",
+        "value": 7.0,
+        "comment": "Atletica: salto in lungo da fermo",
+        "teacher": "Cacciacarne Antonella"
     },
     {
         "date": "2025-02-06T00:00:00",
