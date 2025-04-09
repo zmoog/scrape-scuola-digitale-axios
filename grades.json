@@ -40,6 +40,14 @@
         "teacher": "Barbero Daniela"
     },
     {
+        "date": "2025-03-17T00:00:00",
+        "subject": "Religione",
+        "kind": "Scritto",
+        "value": 7.0,
+        "comment": "",
+        "teacher": "Avanzato Paola Carla"
+    },
+    {
         "date": "2025-03-14T00:00:00",
         "subject": "FRANCESE",
         "kind": "Scritto",
