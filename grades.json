@@ -8,6 +8,14 @@
         "teacher": "Pavarin Maria Luisa"
     },
     {
+        "date": "2025-04-10T00:00:00",
+        "subject": "Italiano",
+        "kind": "Scritto",
+        "value": 7.5,
+        "comment": "Verifica di Educazione civica: legalit\u00e0 e lotta alle mafie",
+        "teacher": "Rapalino Lara"
+    },
+    {
         "date": "2025-04-02T00:00:00",
         "subject": "INGLESE",
         "kind": "Orale",
