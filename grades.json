@@ -1,5 +1,13 @@
 [
     {
+        "date": "2025-04-23T00:00:00",
+        "subject": "Storia",
+        "kind": "Scritto",
+        "value": 4.5,
+        "comment": "",
+        "teacher": "Novelli Cristina"
+    },
+    {
         "date": "2025-04-14T00:00:00",
         "subject": "MUSICA",
         "kind": "Orale",
