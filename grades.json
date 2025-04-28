@@ -1,5 +1,13 @@
 [
     {
+        "date": "2025-04-28T00:00:00",
+        "subject": "MUSICA",
+        "kind": "Pratico",
+        "value": 10.0,
+        "comment": "",
+        "teacher": "Antonini Alessandro"
+    },
+    {
         "date": "2025-04-23T00:00:00",
         "subject": "Storia",
         "kind": "Scritto",
