@@ -25,6 +25,14 @@
     },
     {
         "date": "2025-04-28T00:00:00",
+        "subject": "Religione",
+        "kind": "Scritto",
+        "value": 7.5,
+        "comment": "",
+        "teacher": "Avanzato Paola Carla"
+    },
+    {
+        "date": "2025-04-28T00:00:00",
         "subject": "Italiano",
         "kind": "Scritto",
         "value": 7.0,
