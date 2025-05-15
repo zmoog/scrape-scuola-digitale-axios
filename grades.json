@@ -1,5 +1,13 @@
 [
     {
+        "date": "2025-05-15T00:00:00",
+        "subject": "SC.MOTORIE SPORTIVE",
+        "kind": "Altro/Unico",
+        "value": 10.0,
+        "comment": "Rugby (Comportamento, Attenzione, Impegno e Capacit\u00e0).",
+        "teacher": "Cacciacarne Antonella"
+    },
+    {
         "date": "2025-05-14T00:00:00",
         "subject": "Geografia",
         "kind": "Scritto",
