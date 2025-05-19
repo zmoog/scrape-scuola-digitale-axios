@@ -32,6 +32,14 @@
         "teacher": "Rapalino Lara"
     },
     {
+        "date": "2025-05-09T00:00:00",
+        "subject": "Matematica",
+        "kind": "Scritto",
+        "value": 6.75,
+        "comment": "Verifica di algebra sulle equazioni e il piano cartesiano",
+        "teacher": "Micela Silvia"
+    },
+    {
         "date": "2025-05-08T00:00:00",
         "subject": "Italiano",
         "kind": "Scritto",
