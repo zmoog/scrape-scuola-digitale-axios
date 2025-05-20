@@ -1,5 +1,29 @@
 [
     {
+        "date": "2025-05-20T00:00:00",
+        "subject": "ARTE E IMMAGINE",
+        "kind": "Pratico",
+        "value": 8.0,
+        "comment": "Vulcano",
+        "teacher": "Pagliarulo Veronica"
+    },
+    {
+        "date": "2025-05-20T00:00:00",
+        "subject": "ARTE E IMMAGINE",
+        "kind": "Grafico",
+        "value": 9.0,
+        "comment": "Keith Haring",
+        "teacher": "Pagliarulo Veronica"
+    },
+    {
+        "date": "2025-05-20T00:00:00",
+        "subject": "ARTE E IMMAGINE",
+        "kind": "Grafico",
+        "value": 8.0,
+        "comment": "Pop Art: Coca Cola",
+        "teacher": "Pagliarulo Veronica"
+    },
+    {
         "date": "2025-05-15T00:00:00",
         "subject": "SC.MOTORIE SPORTIVE",
         "kind": "Altro/Unico",
