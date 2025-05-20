@@ -56,6 +56,14 @@
         "teacher": "Micela Silvia"
     },
     {
+        "date": "2025-05-06T00:00:00",
+        "subject": "Scienze",
+        "kind": "Scritto",
+        "value": 8.75,
+        "comment": "Verifica sui vulcani e i fenomeni sismici",
+        "teacher": "Micela Silvia"
+    },
+    {
         "date": "2025-05-05T00:00:00",
         "subject": "Geografia",
         "kind": "Scritto",
