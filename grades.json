@@ -1,5 +1,13 @@
 [
     {
+        "date": "2025-05-22T00:00:00",
+        "subject": "Italiano",
+        "kind": "Orale",
+        "value": 8.5,
+        "comment": "Interrogazione di letteratura",
+        "teacher": "Rapalino Lara"
+    },
+    {
         "date": "2025-05-20T00:00:00",
         "subject": "ARTE E IMMAGINE",
         "kind": "Pratico",
