@@ -78,5 +78,349 @@
         "value": 7.0,
         "comment": "Letteratura: Naturalismo, Verismo, Decadentismo. Verga, Pascoli, D'Annunzio.",
         "teacher": "Rapalino Lara"
+    },
+    {
+        "date": "2025-05-07T00:00:00",
+        "subject": "EDUCAZIONE CIVICA",
+        "kind": "Scritto",
+        "value": 7.5,
+        "comment": "",
+        "teacher": "Micela Silvia"
+    },
+    {
+        "date": "2025-05-06T00:00:00",
+        "subject": "Scienze",
+        "kind": "Scritto",
+        "value": 8.75,
+        "comment": "Verifica sui vulcani e i fenomeni sismici",
+        "teacher": "Micela Silvia"
+    },
+    {
+        "date": "2025-05-05T00:00:00",
+        "subject": "Geografia",
+        "kind": "Scritto",
+        "value": 6.5,
+        "comment": "",
+        "teacher": "Novelli Cristina"
+    },
+    {
+        "date": "2025-04-28T00:00:00",
+        "subject": "Religione",
+        "kind": "Scritto",
+        "value": 7.5,
+        "comment": "",
+        "teacher": "Avanzato Paola Carla"
+    },
+    {
+        "date": "2025-04-28T00:00:00",
+        "subject": "Italiano",
+        "kind": "Scritto",
+        "value": 7.0,
+        "comment": "Verifica di comprensione del testo",
+        "teacher": "Rapalino Lara"
+    },
+    {
+        "date": "2025-04-28T00:00:00",
+        "subject": "MUSICA",
+        "kind": "Pratico",
+        "value": 10.0,
+        "comment": "",
+        "teacher": "Antonini Alessandro"
+    },
+    {
+        "date": "2025-04-23T00:00:00",
+        "subject": "Storia",
+        "kind": "Scritto",
+        "value": 4.5,
+        "comment": "",
+        "teacher": "Novelli Cristina"
+    },
+    {
+        "date": "2025-04-14T00:00:00",
+        "subject": "MUSICA",
+        "kind": "Orale",
+        "value": 8.5,
+        "comment": "",
+        "teacher": "Antonini Alessandro"
+    },
+    {
+        "date": "2025-04-10T00:00:00",
+        "subject": "TECNOLOGIA",
+        "kind": "Scritto",
+        "value": 8.0,
+        "comment": "",
+        "teacher": "Pavarin Maria Luisa"
+    },
+    {
+        "date": "2025-04-10T00:00:00",
+        "subject": "Italiano",
+        "kind": "Scritto",
+        "value": 7.5,
+        "comment": "Verifica di Educazione civica: legalit\u00e0 e lotta alle mafie",
+        "teacher": "Rapalino Lara"
+    },
+    {
+        "date": "2025-04-07T00:00:00",
+        "subject": "FRANCESE",
+        "kind": "Scritto",
+        "value": 0.0,
+        "comment": "Test di Educazione Civica",
+        "teacher": "Giovannini Sonia"
+    },
+    {
+        "date": "2025-04-02T00:00:00",
+        "subject": "INGLESE",
+        "kind": "Orale",
+        "value": 9.0,
+        "comment": "Presentazione orale",
+        "teacher": "Barbero Daniela"
+    },
+    {
+        "date": "2025-04-02T00:00:00",
+        "subject": "TECNOLOGIA",
+        "kind": "Scritto",
+        "value": 8.25,
+        "comment": "",
+        "teacher": "Pavarin Maria Luisa"
+    },
+    {
+        "date": "2025-04-01T00:00:00",
+        "subject": "Matematica",
+        "kind": "Grafico",
+        "value": 8.75,
+        "comment": "Verifica di geometria solida sul parallelepipedo rettangolo e il cubo",
+        "teacher": "Micela Silvia"
+    },
+    {
+        "date": "2025-03-31T00:00:00",
+        "subject": "Italiano",
+        "kind": "Scritto",
+        "value": 6.0,
+        "comment": "Produzione del testo scritto",
+        "teacher": "Rapalino Lara"
+    },
+    {
+        "date": "2025-03-19T00:00:00",
+        "subject": "INGLESE",
+        "kind": "Scritto",
+        "value": 5.0,
+        "comment": "Verifica sui tre tipi di periodo ipotetico",
+        "teacher": "Barbero Daniela"
+    },
+    {
+        "date": "2025-03-18T00:00:00",
+        "subject": "INGLESE",
+        "kind": "Scritto",
+        "value": 0.0,
+        "comment": "",
+        "teacher": "Barbero Daniela"
+    },
+    {
+        "date": "2025-03-17T00:00:00",
+        "subject": "Religione",
+        "kind": "Scritto",
+        "value": 7.0,
+        "comment": "",
+        "teacher": "Avanzato Paola Carla"
+    },
+    {
+        "date": "2025-03-14T00:00:00",
+        "subject": "FRANCESE",
+        "kind": "Scritto",
+        "value": 7.5,
+        "comment": "Comprensione del testo",
+        "teacher": "Giovannini Sonia"
+    },
+    {
+        "date": "2025-03-14T00:00:00",
+        "subject": "Scienze",
+        "kind": "Scritto",
+        "value": 8.0,
+        "comment": "Verifica scritta sulla comparsa della vita sulla Terra e l'evoluzione dell'uomo",
+        "teacher": "Micela Silvia"
+    },
+    {
+        "date": "2025-03-13T00:00:00",
+        "subject": "SC.MOTORIE SPORTIVE",
+        "kind": "Pratico",
+        "value": 7.0,
+        "comment": "getto del peso",
+        "teacher": "Cacciacarne Antonella"
+    },
+    {
+        "date": "2025-03-11T00:00:00",
+        "subject": "Storia",
+        "kind": "Scritto",
+        "value": 7.5,
+        "comment": "",
+        "teacher": "Novelli Cristina"
+    },
+    {
+        "date": "2025-03-10T00:00:00",
+        "subject": "Geografia",
+        "kind": "Scritto",
+        "value": 8.7,
+        "comment": "",
+        "teacher": "Novelli Cristina"
+    },
+    {
+        "date": "2025-03-07T00:00:00",
+        "subject": "ARTE E IMMAGINE",
+        "kind": "Grafico",
+        "value": 9.0,
+        "comment": "astrattismo",
+        "teacher": "Pagliarulo Veronica"
+    },
+    {
+        "date": "2025-03-06T00:00:00",
+        "subject": "SC.MOTORIE SPORTIVE",
+        "kind": "Pratico",
+        "value": 6.5,
+        "comment": "Atletica: salto in alto",
+        "teacher": "Cacciacarne Antonella"
+    },
+    {
+        "date": "2025-03-06T00:00:00",
+        "subject": "Italiano",
+        "kind": "Orale",
+        "value": 7.5,
+        "comment": "Letteratura: Manzoni",
+        "teacher": "Rapalino Lara"
+    },
+    {
+        "date": "2025-02-27T00:00:00",
+        "subject": "Italiano",
+        "kind": "Scritto",
+        "value": 8.0,
+        "comment": "Sintassi: le proposizioni subordinate sostantive",
+        "teacher": "Rapalino Lara"
+    },
+    {
+        "date": "2025-02-26T00:00:00",
+        "subject": "INGLESE",
+        "kind": "Scritto",
+        "value": 0.0,
+        "comment": "",
+        "teacher": "Barbero Daniela"
+    },
+    {
+        "date": "2025-02-25T00:00:00",
+        "subject": "Matematica",
+        "kind": "Pratico",
+        "value": 6.75,
+        "comment": "Interrogazione sui prismi",
+        "teacher": "Micela Silvia"
+    },
+    {
+        "date": "2025-02-24T00:00:00",
+        "subject": "Geografia",
+        "kind": "Orale",
+        "value": 6.7,
+        "comment": "",
+        "teacher": "Novelli Cristina"
+    },
+    {
+        "date": "2025-02-19T00:00:00",
+        "subject": "INGLESE",
+        "kind": "Scritto",
+        "value": 6.0,
+        "comment": "Produzione scritta (summary, letter writing)",
+        "teacher": "Barbero Daniela"
+    },
+    {
+        "date": "2025-02-18T00:00:00",
+        "subject": "Matematica",
+        "kind": "Grafico",
+        "value": 7.5,
+        "comment": "Verifica di geometria solida sui prismi",
+        "teacher": "Micela Silvia"
+    },
+    {
+        "date": "2025-02-17T00:00:00",
+        "subject": "MUSICA",
+        "kind": "Pratico",
+        "value": 7.0,
+        "comment": "",
+        "teacher": "Antonini Alessandro"
+    },
+    {
+        "date": "2025-02-14T00:00:00",
+        "subject": "Matematica",
+        "kind": "Scritto",
+        "value": 7.25,
+        "comment": "Verifica scritta sulle operazioni con i monomi",
+        "teacher": "Micela Silvia"
+    },
+    {
+        "date": "2025-02-13T00:00:00",
+        "subject": "Scienze",
+        "kind": "Scritto",
+        "value": 9.75,
+        "comment": "Verifica scritta sulla struttura del DNA e la genetica",
+        "teacher": "Micela Silvia"
+    },
+    {
+        "date": "2025-02-12T00:00:00",
+        "subject": "Geografia",
+        "kind": "Scritto",
+        "value": 6.5,
+        "comment": "",
+        "teacher": "Novelli Cristina"
+    },
+    {
+        "date": "2025-02-11T00:00:00",
+        "subject": "Matematica",
+        "kind": "Grafico",
+        "value": 9.0,
+        "comment": "Verifica sulle formule di geometria piana (area dei poligoni, teorema di Pitagora e sue applicazioni nel quadrato e nel triangolo  equilatero, circonferenza e cerchio) e di geometria solida sul prisma.",
+        "teacher": "Micela Silvia"
+    },
+    {
+        "date": "2025-02-10T00:00:00",
+        "subject": "Religione",
+        "kind": "Scritto",
+        "value": 7.0,
+        "comment": "Lavoro relativo alla giornata della memoria",
+        "teacher": "Avanzato Paola Carla"
+    },
+    {
+        "date": "2025-02-10T00:00:00",
+        "subject": "MUSICA",
+        "kind": "Orale",
+        "value": 7.25,
+        "comment": "",
+        "teacher": "Antonini Alessandro"
+    },
+    {
+        "date": "2025-02-10T00:00:00",
+        "subject": "Storia",
+        "kind": "Scritto",
+        "value": 7.5,
+        "comment": "",
+        "teacher": "Novelli Cristina"
+    },
+    {
+        "date": "2025-02-07T00:00:00",
+        "subject": "FRANCESE",
+        "kind": "Orale",
+        "value": 8.5,
+        "comment": "Interrogazione",
+        "teacher": "Giovannini Sonia"
+    },
+    {
+        "date": "2025-02-06T00:00:00",
+        "subject": "SC.MOTORIE SPORTIVE",
+        "kind": "Pratico",
+        "value": 7.0,
+        "comment": "Atletica: salto in lungo da fermo",
+        "teacher": "Cacciacarne Antonella"
+    },
+    {
+        "date": "2025-02-06T00:00:00",
+        "subject": "TECNOLOGIA",
+        "kind": "Scritto",
+        "value": 8.5,
+        "comment": "",
+        "teacher": "Fantini Veronica"
     }
 ]
