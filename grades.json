@@ -1,5 +1,13 @@
 [
     {
+        "date": "2025-05-23T00:00:00",
+        "subject": "EDUCAZIONE CIVICA",
+        "kind": "Scritto",
+        "value": 7.5,
+        "comment": "",
+        "teacher": "Micela Silvia"
+    },
+    {
         "date": "2025-05-22T00:00:00",
         "subject": "Italiano",
         "kind": "Orale",
@@ -197,6 +205,14 @@
         "kind": "Grafico",
         "value": 8.75,
         "comment": "Verifica di geometria solida sul parallelepipedo rettangolo e il cubo",
+        "teacher": "Micela Silvia"
+    },
+    {
+        "date": "2025-03-31T00:00:00",
+        "subject": "EDUCAZIONE CIVICA",
+        "kind": "Scritto",
+        "value": 7.0,
+        "comment": "",
         "teacher": "Micela Silvia"
     },
     {
