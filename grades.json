@@ -16,6 +16,14 @@
         "teacher": "Rapalino Lara"
     },
     {
+        "date": "2025-05-21T00:00:00",
+        "subject": "INGLESE",
+        "kind": "Scritto",
+        "value": 9.0,
+        "comment": "Verifica step forward A+B",
+        "teacher": "Barbero Daniela"
+    },
+    {
         "date": "2025-05-20T00:00:00",
         "subject": "ARTE E IMMAGINE",
         "kind": "Pratico",
