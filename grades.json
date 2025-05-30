@@ -1,5 +1,13 @@
 [
     {
+        "date": "2025-05-30T00:00:00",
+        "subject": "TECNOLOGIA",
+        "kind": "Grafico",
+        "value": 9.0,
+        "comment": "Tavola N 12 proiezione ortogonale di una piramide a base ottagonale inclinata",
+        "teacher": "Pavarin Maria Luisa"
+    },
+    {
         "date": "2025-05-23T00:00:00",
         "subject": "EDUCAZIONE CIVICA",
         "kind": "Scritto",
