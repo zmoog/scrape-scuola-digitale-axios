@@ -1,6 +1,14 @@
 [
     {
         "date": "2025-05-30T00:00:00",
+        "subject": "FRANCESE",
+        "kind": "Orale",
+        "value": 7.5,
+        "comment": "Interrogazione",
+        "teacher": "Giovannini Sonia"
+    },
+    {
+        "date": "2025-05-30T00:00:00",
         "subject": "TECNOLOGIA",
         "kind": "Grafico",
         "value": 9.0,
