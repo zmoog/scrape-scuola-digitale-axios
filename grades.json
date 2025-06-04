@@ -1,5 +1,13 @@
 [
     {
+        "date": "2025-06-03T00:00:00",
+        "subject": "Storia",
+        "kind": "Orale",
+        "value": 7.7,
+        "comment": "",
+        "teacher": "Novelli Cristina"
+    },
+    {
         "date": "2025-05-30T00:00:00",
         "subject": "FRANCESE",
         "kind": "Orale",
