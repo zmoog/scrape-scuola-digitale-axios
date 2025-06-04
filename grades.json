@@ -1,5 +1,13 @@
 [
     {
+        "date": "2025-06-04T00:00:00",
+        "subject": "EDUCAZIONE CIVICA",
+        "kind": "Scritto",
+        "value": 7.7,
+        "comment": "",
+        "teacher": "Micela Silvia"
+    },
+    {
         "date": "2025-06-03T00:00:00",
         "subject": "Storia",
         "kind": "Orale",
@@ -22,6 +30,14 @@
         "value": 9.0,
         "comment": "Tavola N 12 proiezione ortogonale di una piramide a base ottagonale inclinata",
         "teacher": "Pavarin Maria Luisa"
+    },
+    {
+        "date": "2025-05-28T00:00:00",
+        "subject": "EDUCAZIONE CIVICA",
+        "kind": "Scritto",
+        "value": 7.0,
+        "comment": "",
+        "teacher": "Micela Silvia"
     },
     {
         "date": "2025-05-23T00:00:00",
