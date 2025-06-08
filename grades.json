@@ -176,6 +176,14 @@
         "teacher": "Novelli Cristina"
     },
     {
+        "date": "2025-04-29T00:00:00",
+        "subject": "Matematica",
+        "kind": "Grafico",
+        "value": 8.0,
+        "comment": "Verifica scritta di geometria sulla piramide retta",
+        "teacher": "Micela Silvia"
+    },
+    {
         "date": "2025-04-28T00:00:00",
         "subject": "Religione",
         "kind": "Scritto",
